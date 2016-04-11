@@ -1,0 +1,37 @@
+<html>
+<head> 
+<title> Homework 1 </title>
+</head> 
+<body> 
+<h2>What does HTML stand for?</h2>
+<p>Hypertext Markup Language</p>
+<h2>What does CSS stand for?</h2>
+<p>Cascading Style Sheet</p>
+<h2>What is they name of the tag that comes first on any web page?</h2>
+<p>An opening tag</p>
+<h2>What is the name of the tag that contains the stuff you will see in the main + browser window?</h2>
+<p>Body</p>
+<h2>How can you see the HTML of a page in your browser?</h2>
+<p>View menu, select source view source.</P>
+<h2>What is semantic markup?</hs>
+<p>Extra infromation; such as where emphasis is placed in a sentence, that something you have written is a quotation.</P>
+<h2>How many types of headlines are there?</h2>
+<p>Six</p>
+<h2>What happens if you use multiple spaces?</h2>
+<p>It will read as one space</p>
+<h2>Name 3 types of lists and describe each one.</h2>
+<P> Ordered list, Unordered list, and definition list.</p>
+<ol>
+<li>Ordered list - List where each item in the list is numbered.</li>
+<li>Unordered list - are list that begin with a bullet point.</li>
+<li>Deffinition list - Are made up of a set of terms along with the deffinitions of each of those terms.</ol>
+<h2>Name 3 things links let you do.</h2>
+<p><ol><li>Links from one website to another</li>	
+<li>Links from one page to another on the same website</li>
+<li>Links that open in a new browser window</li></ol></p>
+<h2>What is a URL?</h2>
+<p>URL stands for Uniform Resource Locator. Every web page has its own URL.</p>
+<h2>What does it mean if a website is live?<h2>
+<p>It’s been uploaded to a web server</p>
+</body>
+</html> 
